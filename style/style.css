@@ -1,0 +1,352 @@
+
+body {
+  background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2FOq9IRDF.jpg&f=1&nofb=1&ipt=fa43a3cd1f5e59960a0b304516f3593b79ddde9acc9b95591b957ef8f67a4715&ipo=images');
+}
+ 
+.nav
+{
+    border: 1px solid rgb(241, 10, 106);
+    display: flex;
+    border-radius: 2px;
+    gap: 5px;
+}
+.nav .nav1
+{
+    border: 1px solid rgb(241, 10, 106);
+
+    background-color: yellow;
+    text-transform: uppercase;
+    height: 20px;
+    width: 100%;
+    text-align: center;
+}
+.nav .nav2
+{
+    border: 1px solid  rgb(241, 10, 106);
+    background-color: yellow;
+    text-transform: uppercase;
+    height: 20px;
+    width: 100%;
+    text-align: center;
+}
+.nav .nav3
+{
+    border: 1px solid  rgb(241, 10, 106);
+    background-color: yellow;
+    text-transform: uppercase;
+    height: 20px;
+    width: 100%;
+    text-align: center;
+}
+.nav .nav4
+{
+    border: 1px solid  rgb(241, 10, 106);
+    background-color: yellow;
+    text-transform: uppercase;
+    height: 20px;
+    width: 100%;
+    text-align: center;
+}
+.nav .nav5
+{
+    border: 1px solid rgb(241, 10, 106);
+    background-color: yellow;
+    text-transform: uppercase;
+    height: 20px;
+    width: 100%;
+    text-align: center;
+    
+}
+.p1 .part1{
+    margin-top: 10px;
+    
+    border: 5px solid black;
+    display: flex;
+
+}
+.p1 .part1 .des1
+{   
+    border: 1px solid black;
+    
+    height:240px ;
+    width: 60%;
+background-position: auto;
+background-size: 100%;
+    
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwhyweseek.com%2Fwp-content%2Fuploads%2F2019%2F09%2Fterry-blacks-bbq-austin-texas.jpg&f=1&nofb=1&ipt=1c9c24ebc96bd8995d8d5122e7e08dfe575ba300551f1094bd8cd7a86c3ae15f&ipo=images);
+
+}
+
+.p1 .part1 .des1  h4 {
+    border: 1px solid rgb(65, 37, 48); 
+    background-color: yellow;
+    width: 150px;
+    height: 22px;
+    margin-top: 55px;
+    margin-left: 100px;
+    text-align: center;
+    border-radius: 5px;
+    
+
+}
+.p1 .part1 .des1 h6{
+
+    border: 1px solid black; 
+    background-color: yellow;
+    width: 100px;
+    height: 15px;
+    border-radius: 5px;
+    
+    margin-left: 100px;
+    text-align: center;
+}
+
+
+.p1 .part1 .des2
+{
+    border: 2px solid black;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.p1 .part1 .des2  .h3 {
+    border: 1px solid  rgb(241, 10, 106);  
+    background-color: yellow;
+     height: 95px; 
+     width: 40%px;
+     margin-top: 15px;
+     margin-left: 15px;
+     margin-right: 15px;
+   text-align: center;
+ 
+ 
+}
+ 
+.p1 .part1 .des2  .h4{
+    border: 1px solid  rgb(241, 10, 106);  
+    background-color: yellow;
+    height: 95px;
+    width: 40%px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: center;
+}
+
+   .part2
+   {
+    border: 1px solid none;
+    display: flex;
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    gap: 10px;
+   }
+   .part2 .pa1{
+    background-color: white;
+   
+    border: 1px solid rgb(241, 10, 106)
+
+    height: auto;
+    width: 100%;
+    
+    
+   }
+  
+
+   .part2 .pa1 img{
+    
+    width: 40px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+   }
+  
+   .part2 .pa1  h4{
+    
+    text-align: center;
+    
+   }
+
+.part2 .pa1 p {
+    border: 1px solid none;
+   
+    width: 100%;
+    height: auto;
+    text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: small;
+
+}
+.part2 .pa2{
+    border: 1px solid none;
+    background-color: white;
+    height: auto;
+    width: 100%;
+    
+    
+   }
+  
+
+   .part2 .pa2 img{
+    
+    width: 40px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 5px;
+   }
+  
+   .part2 .pa2  h4{
+    
+    text-align: center;
+    
+   }
+
+.part2 .pa2 p {
+    border: 1px solid none;
+   
+    width: 100%;
+    height: auto;
+    text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: small;
+    
+
+}
+.part2 .pa3{
+    border: 1px solid none;
+    background-color: white;
+    height: auto;
+    width: 100%;
+    
+    
+   }
+  
+
+   .part2 .pa3 img{
+    margin-top: 5px;
+    width: 40px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+   }
+  
+   .part2 .pa3  h4{
+    
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+   }
+
+.part2 .pa3 p {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    
+
+}
+.part2 .pa4{
+    border: 1px solid black;
+    height: 100px;
+    width: 100%;
+    
+    
+   }
+  
+
+   .part2 .pa4 img{
+    margin-top: 5px;
+    
+    width: 40px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+   }
+  
+   .part2 .pa4  h4{
+    
+    text-align: center;
+    
+   }
+
+.part2 .pa4 p {
+    text-align: center;
+    
+
+}
+.part3
+{
+    margin-top: 10px;
+    border: 1px solid none;
+    display: flex;
+    background-color: white;
+}
+.part0{
+    display: flex;
+    border: 1px solid none;
+    margin-left: 100px;
+
+}
+.part3 .part0 .img {
+    border: 1px solid none;
+    margin-top: 60px;
+    margin-bottom: auto;
+    margin-left:50px;
+  
+    height:300px ;
+}
+.part3 .part0 .h3{
+    border: 1px solid none;
+    margin-top: 90px;
+    margin-left: 20px;
+}
+.part3 .part0 .h3 h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+.part3 .part0 .h3 .a {
+    background-color: rgb(209, 209, 5);
+    width: 100px;
+    height: 25px;
+    text-align: center;
+}
+.part3 .part0 .h3 a {
+    border: 10px solid none;
+    text-decoration: none;
+    
+}
+ .part4{
+    border: 1px solid none;
+  text-align: center;
+ }
+
+
+.part5
+{
+    border: 1px solid black;    
+} 
+
+.part5 .gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 280px;
+    gap: 5px;
+  }
+.part5 .gallery:hover {
+    border: 2px solid #777;
+  }
+ .part5 .gallery img {
+    width: 100%;
+    height: 100px;
+  }
+  
+  
